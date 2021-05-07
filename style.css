@@ -1,0 +1,21 @@
+#header{
+    background-color: lightblue;
+    color:white;
+    text-align: center;
+}
+
+ body{ background-color: lightgray;
+}
+
+#container{background-color: white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#nav {
+    display: inline;
+}
+#footer{
+    background-color: gray;
+    color:white;
+}
